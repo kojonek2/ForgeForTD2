@@ -1,0 +1,16 @@
+C:\git\ForgeNetworkingRemastered\ForgeNetworkingCommon\bin\Debug\ForgeNetworkingCommon.dll
+C:\git\ForgeNetworkingRemastered\ForgeNetworkingCommon\bin\Debug\ForgeNetworkingCommon.pdb
+C:\git\ForgeNetworkingRemastered\ForgeNetworkingCommon\obj\Debug\ForgeNetworkingCommon.dll
+C:\git\ForgeNetworkingRemastered\ForgeNetworkingCommon\obj\Debug\ForgeNetworkingCommon.pdb
+G:\Work\BeardedManStudios\ForgeNetworkingRemastered\ForgeNetworkingCommon\bin\Debug\ForgeNetworkingCommon.dll
+G:\Work\BeardedManStudios\ForgeNetworkingRemastered\ForgeNetworkingCommon\bin\Debug\ForgeNetworkingCommon.pdb
+G:\Work\BeardedManStudios\ForgeNetworkingRemastered\ForgeNetworkingCommon\obj\Debug\ForgeNetworkingCommon.dll
+G:\Work\BeardedManStudios\ForgeNetworkingRemastered\ForgeNetworkingCommon\obj\Debug\ForgeNetworkingCommon.pdb
+G:\Work\BeardedManStudios\ForgeNetworkingRemastered\ForgeNetworkingCommon\obj\Debug\ForgeNetworkingCommon.csprojResolveAssemblyReference.cache
+C:\git\ForgeNetworkingRemastered\ForgeNetworkingCommon\obj\Debug\ForgeNetworkingCommon.csprojResolveAssemblyReference.cache
+C:\Users\zmuda\Documents\Nasze\ForgeNetworkingRemastered-master\ForgeNetworkingCommon\bin\Debug\ForgeNetworkingCommon.dll
+C:\Users\zmuda\Documents\Nasze\ForgeNetworkingRemastered-master\ForgeNetworkingCommon\bin\Debug\ForgeNetworkingCommon.pdb
+C:\Users\zmuda\Documents\Nasze\ForgeNetworkingRemastered-master\ForgeNetworkingCommon\obj\Debug\ForgeNetworkingCommon.csprojResolveAssemblyReference.cache
+C:\Users\zmuda\Documents\Nasze\ForgeNetworkingRemastered-master\ForgeNetworkingCommon\obj\Debug\ForgeNetworkingCommon.csproj.CoreCompileInputs.cache
+C:\Users\zmuda\Documents\Nasze\ForgeNetworkingRemastered-master\ForgeNetworkingCommon\obj\Debug\ForgeNetworkingCommon.dll
+C:\Users\zmuda\Documents\Nasze\ForgeNetworkingRemastered-master\ForgeNetworkingCommon\obj\Debug\ForgeNetworkingCommon.pdb

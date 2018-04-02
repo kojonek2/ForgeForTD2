@@ -1,0 +1,6 @@
+C:\Users\zmuda\Documents\Nasze\ForgeNetworkingRemastered-master\ForgeNetworkingCommon\bin\Release\ForgeNetworkingCommon.dll
+C:\Users\zmuda\Documents\Nasze\ForgeNetworkingRemastered-master\ForgeNetworkingCommon\bin\Release\ForgeNetworkingCommon.pdb
+C:\Users\zmuda\Documents\Nasze\ForgeNetworkingRemastered-master\ForgeNetworkingCommon\obj\Release\ForgeNetworkingCommon.csprojResolveAssemblyReference.cache
+C:\Users\zmuda\Documents\Nasze\ForgeNetworkingRemastered-master\ForgeNetworkingCommon\obj\Release\ForgeNetworkingCommon.csproj.CoreCompileInputs.cache
+C:\Users\zmuda\Documents\Nasze\ForgeNetworkingRemastered-master\ForgeNetworkingCommon\obj\Release\ForgeNetworkingCommon.dll
+C:\Users\zmuda\Documents\Nasze\ForgeNetworkingRemastered-master\ForgeNetworkingCommon\obj\Release\ForgeNetworkingCommon.pdb
